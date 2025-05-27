@@ -1,0 +1,12 @@
+face_recognition
+opencv-python
+numpy
+langchain
+langchain-anthropic
+langchain-community
+langchain-huggingface
+faiss-cpu
+flask
+sentence-transformers
+tf-keras
+optree>=0.13.0
