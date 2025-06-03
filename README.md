@@ -117,58 +117,19 @@ File Structure
 Here’s the project’s file structure for reference:
 ![image](https://github.com/user-attachments/assets/ff61e5b4-6ea9-4732-ac39-4dfc33e8710a)
 
-Dependencies
-Frontend (frontend/package.json)
-{
-  "dependencies": {
-    "axios": "^1.6.8",
-    "tsparticles": "^3.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-webcam": "^7.2.0",
-    "socket.io-client": "^4.7.5"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  }
-}
-Backend (backend/package.json)
-{
-  "dependencies": {
-    "axios": "^1.6.8",
-    "express": "^4.19.2",
-    "socket.io": "^4.7.5",
-    "winston": "^3.13.0"
-  },
-  "scripts": {
-    "start": "node server.js"
-  }
-}
-//Python (python/requirements.txt)
-//flask==3.0.3
-face_recognition==1.3.0
-numpy==1.26.4
-opencv-python==4.9.0.80
-anthropic==0.28.0
-faiss-cpu==1.8.0
+![image](https://github.com/user-attachments/assets/b5be6d16-0e7b-469c-a9ab-e07a3908d2e4)
+
 Demo Photo
 A demo photo showcasing the project’s functionality will be recorded using Loom. The video will include:
 •	Face Registration: Registering a face and showing the “successful registration” popup.
-
-
-
-
-
-
-
-
+![Screenshot 2025-05-27 225759](https://github.com/user-attachments/assets/557fac21-3d00-4aff-90aa-cb25d4934d48)
 
 •	Live Recognition: Displaying the constant “Welcome Barath” output with the bounding box.
+![Screenshot 2025-05-27 225816](https://github.com/user-attachments/assets/d74e4973-bf05-4d02-a09b-500b9d1fd010)
+
                                
 •	Chat Interface: Demonstrating greeting responses (e.g., “Hi”) and RAG queries (e.g., “Who was the last person registered?”).
+![Screenshot 2025-05-27 225847](https://github.com/user-attachments/assets/2e42a7a3-5449-4782-9061-8c460be74f09)
 
 
 
