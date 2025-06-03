@@ -115,37 +115,8 @@ SQLite (faces.db)
 RAG (Claude API)
 File Structure
 Here’s the project’s file structure for reference:
-katomaran-ai-hackathon/
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── RegistrationTab.js
-│   │   │   ├── LiveRecognitionTab.js
-│   │   │   └── ChatWidget.js
-│   │   ├── App.js
-│   │   ├── index.css
-│   │   └── ...
-│   ├── package.json
-│   └── ...
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── ...
-├── python/
-│   ├── register_face.py
-│   ├── recognize_face.py
-│   ├── rag_engine.py
-│   ├── database.py
-│   ├── requirements.txt
-│   └── ...
-├── logs/
-│   ├── backend.log
-│   ├── python.log
-│   └── ...
-├── docs/
-│   └── architecture.png (to be added)
-├── README.md
-└── ...
+![image](https://github.com/user-attachments/assets/ff61e5b4-6ea9-4732-ac39-4dfc33e8710a)
+
 Dependencies
 Frontend (frontend/package.json)
 {
