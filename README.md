@@ -147,8 +147,8 @@ Backend (backend/package.json)
     "start": "node server.js"
   }
 }
-Python (python/requirements.txt)
-flask==3.0.3
+//Python (python/requirements.txt)
+//flask==3.0.3
 face_recognition==1.3.0
 numpy==1.26.4
 opencv-python==4.9.0.80
